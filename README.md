@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heyceline
-- 👀 I’m interested in project management
-- 🌱 I’m currently learning how to make advertisement
-- 💞️ I’m looking to collaborate on technology industry
-- 📫 How to reach me via email
+- 👀 I’m interested with
+- 🌱 I’m currently learning how to 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me via 
 
 <!---
 heyceline/heyceline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
